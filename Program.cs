@@ -31,8 +31,7 @@ class Programa{
             n1 = Console.ReadLine();
             
             while(!double.TryParse(n1, out num1)){
-                Console.Write("Número Inválido. ");
-                Console.Write("Digite a 1º nota novamente e pressione enter: ");
+                Console.Write("Número Inválido. Digite a 1º nota novamente e pressione enter: ");
                 n1 = Console.ReadLine();
             }
 
@@ -40,8 +39,7 @@ class Programa{
             n2 = Console.ReadLine();
             
             while(!double.TryParse(n2, out num2)){
-                Console.Write("Número Inválido. ");
-                Console.Write("Digite a 2º nota novamente e pressione enter: ");
+                Console.Write("Número Inválido. Digite a 2º nota novamente e pressione enter: ");
                 n2 = Console.ReadLine();
             }
 
@@ -49,8 +47,7 @@ class Programa{
             n3 = Console.ReadLine();
             
             while(!double.TryParse(n3, out num3)){
-                Console.Write("Número Inválido. ");
-                Console.Write("Digite a 3º nota novamente e pressione enter: ");
+                Console.Write("Número Inválido. Digite a 3º nota novamente e pressione enter: ");
                 n3 = Console.ReadLine();
             }
 
@@ -58,8 +55,7 @@ class Programa{
             n4 = Console.ReadLine();
             
             while(!double.TryParse(n4, out num4)){
-                Console.Write("Número Inválido. ");
-                Console.Write("Digite a 4º nota novamente e pressione enter: ");
+                Console.Write("Número Inválido. Digite a 4º nota novamente e pressione enter: ");
                 n4 = Console.ReadLine();
             }
 
