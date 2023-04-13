@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\raque\\Downloads\\Codelab\\Onboard\\MediaAlunos\\MediaAlunos.csproj": {}
+    "C:\\Users\\raque\\Downloads\\Codelab\\Onboard\\mediaalunos\\MediaAlunos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\raque\\Downloads\\Codelab\\Onboard\\MediaAlunos\\MediaAlunos.csproj": {
+    "C:\\Users\\raque\\Downloads\\Codelab\\Onboard\\mediaalunos\\MediaAlunos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\raque\\Downloads\\Codelab\\Onboard\\MediaAlunos\\MediaAlunos.csproj",
+        "projectUniqueName": "C:\\Users\\raque\\Downloads\\Codelab\\Onboard\\mediaalunos\\MediaAlunos.csproj",
         "projectName": "MediaAlunos",
-        "projectPath": "C:\\Users\\raque\\Downloads\\Codelab\\Onboard\\MediaAlunos\\MediaAlunos.csproj",
+        "projectPath": "C:\\Users\\raque\\Downloads\\Codelab\\Onboard\\mediaalunos\\MediaAlunos.csproj",
         "packagesPath": "C:\\Users\\raque\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\raque\\Downloads\\Codelab\\Onboard\\MediaAlunos\\obj\\",
+        "outputPath": "C:\\Users\\raque\\Downloads\\Codelab\\Onboard\\mediaalunos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\raque\\AppData\\Roaming\\NuGet\\NuGet.Config"
