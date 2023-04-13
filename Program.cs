@@ -1,8 +1,8 @@
 ﻿class Calculadora{
-    public static double Operacao (double num1, double num2){
+    public static double Operacao (double num1, double num2, double num3){
         double resultado = double.NaN; 
         
-        resultado = (num1 + num2)/2;
+        resultado = (num1 + num2 + num3)/3;
 
         return resultado;
     }
@@ -13,8 +13,10 @@ class Programa{
         bool fim = false;
         string n1="";
         string n2="";
+        string n3="";
         double num1=0;
         double num2=0;
+        double num3=0;
         double resultado=0;
         double mediaTurma=0;
         var mediaEstudantes = new List<double>();
@@ -41,8 +43,17 @@ class Programa{
                 n2 = Console.ReadLine();
             }
 
+            Console.Write("Digite a 3º nota e pressione enter: ");
+            n3 = Console.ReadLine();
+            
+            while(!double.TryParse(n3, out num3)){
+                Console.Write("Número Inválido. ");
+                Console.Write("Digite a 3º nota novamente e pressione enter: ");
+                n3 = Console.ReadLine();
+            }
+
             try{
-                resultado = Calculadora.Operacao(num1, num2);
+                resultado = Calculadora.Operacao(num1, num2, num3);
 
                 if (double.IsNaN(resultado)){
                     Console.WriteLine("Esta operação resultará em um erro matemático\n");

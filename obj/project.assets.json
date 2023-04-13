@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\raque\\Csharp\\MediaAlunos\\MediaAlunos.csproj",
+      "projectUniqueName": "C:\\Users\\raque\\Downloads\\Codelab\\Onboard\\MediaAlunos\\MediaAlunos.csproj",
       "projectName": "MediaAlunos",
-      "projectPath": "C:\\Users\\raque\\Csharp\\MediaAlunos\\MediaAlunos.csproj",
+      "projectPath": "C:\\Users\\raque\\Downloads\\Codelab\\Onboard\\MediaAlunos\\MediaAlunos.csproj",
       "packagesPath": "C:\\Users\\raque\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\raque\\Csharp\\MediaAlunos\\obj\\",
+      "outputPath": "C:\\Users\\raque\\Downloads\\Codelab\\Onboard\\MediaAlunos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\raque\\AppData\\Roaming\\NuGet\\NuGet.Config"
