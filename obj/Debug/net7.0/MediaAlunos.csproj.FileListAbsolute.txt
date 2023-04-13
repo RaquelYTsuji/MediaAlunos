@@ -1,0 +1,15 @@
+C:\Users\raque\Csharp\MediaAlunos\bin\Debug\net7.0\MediaAlunos.exe
+C:\Users\raque\Csharp\MediaAlunos\bin\Debug\net7.0\MediaAlunos.deps.json
+C:\Users\raque\Csharp\MediaAlunos\bin\Debug\net7.0\MediaAlunos.runtimeconfig.json
+C:\Users\raque\Csharp\MediaAlunos\bin\Debug\net7.0\MediaAlunos.dll
+C:\Users\raque\Csharp\MediaAlunos\bin\Debug\net7.0\MediaAlunos.pdb
+C:\Users\raque\Csharp\MediaAlunos\obj\Debug\net7.0\MediaAlunos.csproj.AssemblyReference.cache
+C:\Users\raque\Csharp\MediaAlunos\obj\Debug\net7.0\MediaAlunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raque\Csharp\MediaAlunos\obj\Debug\net7.0\MediaAlunos.AssemblyInfoInputs.cache
+C:\Users\raque\Csharp\MediaAlunos\obj\Debug\net7.0\MediaAlunos.AssemblyInfo.cs
+C:\Users\raque\Csharp\MediaAlunos\obj\Debug\net7.0\MediaAlunos.csproj.CoreCompileInputs.cache
+C:\Users\raque\Csharp\MediaAlunos\obj\Debug\net7.0\MediaAlunos.dll
+C:\Users\raque\Csharp\MediaAlunos\obj\Debug\net7.0\refint\MediaAlunos.dll
+C:\Users\raque\Csharp\MediaAlunos\obj\Debug\net7.0\MediaAlunos.pdb
+C:\Users\raque\Csharp\MediaAlunos\obj\Debug\net7.0\MediaAlunos.genruntimeconfig.cache
+C:\Users\raque\Csharp\MediaAlunos\obj\Debug\net7.0\ref\MediaAlunos.dll
