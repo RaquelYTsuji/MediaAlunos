@@ -1,0 +1,7 @@
+Programa que receber as notas dos alunos de uma turma
+
+Requisitos:
+-Será inserido 2 notas para cada aluno e será exibido a média dessas notas.
+-As notas serão do tipo double.
+-A aplicação continuará recebendo notas de alunos até ser digitado n.
+-Ao fechar a aplicação (digitando n) será exibido a média da turma.
